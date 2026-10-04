@@ -1,9 +1,9 @@
 # 🚦 Urban Traffic & Accident Pattern Analytics in India
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![PDF Preview](https://img.shields.io/badge/PDF-Dashboard_Report-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/lakshmikanthan-data/Urban-Traffic-Accident-Analytics/blob/main/Urban_Traffic_Accident_Analytics.pbix)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://github.com/lakshmikanthan-data/Urban-Traffic-Accident-Analytics/blob/main/Accident_Pattern_Analysis_Queries.sql)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://github.com/lakshmikanthan-data/Urban-Traffic-Accident-Analytics/blob/main/Urban_Traffic_Accident_Cleaned.xlsx)
+[![PDF Preview](https://img.shields.io/badge/PDF-Dashboard_Report-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/lakshmikanthan-data/Urban-Traffic-Accident-Analytics/blob/main/Urban_Traffic_Accident_Analytics-1.pdf)
 
 ---
 
